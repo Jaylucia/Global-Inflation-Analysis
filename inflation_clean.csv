@@ -1,0 +1,401 @@
+country,country_code,Year,Inflation_Rate,region,country_display
+Brazil,BRA,2000,7.04414105947265,Emerging Markets,Brazil
+Germany,DEU,2000,1.44026838719741,Developed,Germany
+"Egypt, Arab Rep.",EGY,2000,2.68380535348546,Africa,Egypt
+Ethiopia,ETH,2000,0.662458109266481,Special Cases,Ethiopia
+France,FRA,2000,1.67595988720928,Developed,France
+Ghana,GHA,2000,40.240933123914,Africa,Ghana
+India,IND,2000,4.0094359104519,Emerging Markets,India
+Japan,JPN,2000,-0.676578683595175,Special Cases,Japan
+Kenya,KEN,2000,9.98002515350979,Africa,Kenya
+"Korea, Rep.",KOR,2000,2.25916580080157,Emerging Markets,South Korea
+Nigeria,NGA,2000,6.93329215565161,Africa,Nigeria
+Pakistan,PAK,2000,4.36666451291681,Emerging Markets,Pakistan
+Turkiye,TUR,2000,54.9153705812683,Emerging Markets,Turkey
+United States,USA,2000,3.37685727149929,Developed,USA
+South Africa,ZAF,2000,5.33895913599828,Africa,South Africa
+Zimbabwe,ZWE,2000,,Special Cases,Zimbabwe
+Brazil,BRA,2001,6.84035902487523,Emerging Markets,Brazil
+Germany,DEU,2001,1.98385731334471,Developed,Germany
+"Egypt, Arab Rep.",EGY,2001,2.26975720475955,Africa,Egypt
+Ethiopia,ETH,2001,-8.23784453391136,Special Cases,Ethiopia
+France,FRA,2001,1.63478079549599,Developed,France
+Ghana,GHA,2001,41.509496287803,Africa,Ghana
+India,IND,2001,3.77929312235637,Emerging Markets,India
+Japan,JPN,2001,-0.740055504162738,Special Cases,Japan
+Kenya,KEN,2001,5.73859814341467,Africa,Kenya
+"Korea, Rep.",KOR,2001,4.06657587897792,Emerging Markets,South Korea
+Nigeria,NGA,2001,18.8736462093863,Africa,Nigeria
+Pakistan,PAK,2001,3.14826144590618,Emerging Markets,Pakistan
+Turkiye,TUR,2001,54.4001887619074,Emerging Markets,Turkey
+United States,USA,2001,2.82617111885407,Developed,USA
+South Africa,ZAF,2001,5.70189483049608,Africa,South Africa
+Zimbabwe,ZWE,2001,,Special Cases,Zimbabwe
+Brazil,BRA,2002,8.45016437708331,Emerging Markets,Brazil
+Germany,DEU,2002,1.42080615551526,Developed,Germany
+"Egypt, Arab Rep.",EGY,2002,2.73723855000334,Africa,Egypt
+Ethiopia,ETH,2002,0.6750891021708,Special Cases,Ethiopia
+France,FRA,2002,1.92341228727063,Developed,France
+Ghana,GHA,2002,9.36093239560313,Africa,Ghana
+India,IND,2002,4.29715203929563,Emerging Markets,India
+Japan,JPN,2002,-0.923494026942321,Special Cases,Japan
+Kenya,KEN,2002,1.96130821739162,Africa,Kenya
+"Korea, Rep.",KOR,2002,2.76226210296599,Emerging Markets,South Korea
+Nigeria,NGA,2002,12.8765792031099,Africa,Nigeria
+Pakistan,PAK,2002,3.29034472613153,Emerging Markets,Pakistan
+Turkiye,TUR,2002,44.964120947985,Emerging Markets,Turkey
+United States,USA,2002,1.58603162650601,Developed,USA
+South Africa,ZAF,2002,9.494713780996,Africa,South Africa
+Zimbabwe,ZWE,2002,,Special Cases,Zimbabwe
+Brazil,BRA,2003,14.7149197228147,Emerging Markets,Brazil
+Germany,DEU,2003,1.03422218628562,Developed,Germany
+"Egypt, Arab Rep.",EGY,2003,4.50777636319303,Africa,Egypt
+Ethiopia,ETH,2003,13.6740452028271,Special Cases,Ethiopia
+France,FRA,2003,2.09847219146919,Developed,France
+Ghana,GHA,2003,29.7729797160384,Africa,Ghana
+India,IND,2003,3.80585899528851,Emerging Markets,India
+Japan,JPN,2003,-0.256541816316025,Special Cases,Japan
+Kenya,KEN,2003,9.81569062979654,Africa,Kenya
+"Korea, Rep.",KOR,2003,3.51487451459939,Emerging Markets,South Korea
+Nigeria,NGA,2003,14.0317836131437,Africa,Nigeria
+Pakistan,PAK,2003,2.91413470059479,Emerging Markets,Pakistan
+Turkiye,TUR,2003,21.6024384490573,Emerging Markets,Turkey
+United States,USA,2003,2.27009497336115,Developed,USA
+South Africa,ZAF,2003,5.67942414068799,Africa,South Africa
+Zimbabwe,ZWE,2003,,Special Cases,Zimbabwe
+Brazil,BRA,2004,6.59718509985963,Emerging Markets,Brazil
+Germany,DEU,2004,1.66573696655991,Developed,Germany
+"Egypt, Arab Rep.",EGY,2004,11.2706193320519,Africa,Egypt
+Ethiopia,ETH,2004,3.32737047894847,Special Cases,Ethiopia
+France,FRA,2004,2.14208964640238,Developed,France
+Ghana,GHA,2004,18.0427388232565,Africa,Ghana
+India,IND,2004,3.76725173477515,Emerging Markets,India
+Japan,JPN,2004,-0.0085733882031027,Special Cases,Japan
+Kenya,KEN,2004,11.6240355442426,Africa,Kenya
+"Korea, Rep.",KOR,2004,3.59066298882578,Emerging Markets,South Korea
+Nigeria,NGA,2004,14.9980338183251,Africa,Nigeria
+Pakistan,PAK,2004,7.44462469342739,Emerging Markets,Pakistan
+Turkiye,TUR,2004,8.59826168115262,Emerging Markets,Turkey
+United States,USA,2004,2.67723669309172,Developed,USA
+South Africa,ZAF,2004,-0.692039437857687,Africa,South Africa
+Zimbabwe,ZWE,2004,,Special Cases,Zimbabwe
+Brazil,BRA,2005,6.86953720898964,Emerging Markets,Brazil
+Germany,DEU,2005,1.54691114751328,Developed,Germany
+"Egypt, Arab Rep.",EGY,2005,4.86939696871988,Africa,Egypt
+Ethiopia,ETH,2005,9.96997123512891,Special Cases,Ethiopia
+France,FRA,2005,1.74586936380487,Developed,France
+Ghana,GHA,2005,15.4389920155908,Africa,Ghana
+India,IND,2005,4.24634362031922,Emerging Markets,India
+Japan,JPN,2005,-0.282946068764391,Special Cases,Japan
+Kenya,KEN,2005,10.3127783574683,Africa,Kenya
+"Korea, Rep.",KOR,2005,2.75379162735039,Emerging Markets,South Korea
+Nigeria,NGA,2005,17.8634933661605,Africa,Nigeria
+Pakistan,PAK,2005,9.06332737030417,Emerging Markets,Pakistan
+Turkiye,TUR,2005,8.17916036802008,Emerging Markets,Turkey
+United States,USA,2005,3.3927468454955,Developed,USA
+South Africa,ZAF,2005,2.06285308223427,Africa,South Africa
+Zimbabwe,ZWE,2005,,Special Cases,Zimbabwe
+Brazil,BRA,2006,4.18356812896909,Emerging Markets,Brazil
+Germany,DEU,2006,1.57742642840563,Developed,Germany
+"Egypt, Arab Rep.",EGY,2006,7.64452644526434,Africa,Egypt
+Ethiopia,ETH,2006,12.2994763114824,Special Cases,Ethiopia
+France,FRA,2006,1.67512449608726,Developed,France
+Ghana,GHA,2006,11.6791839392492,Africa,Ghana
+India,IND,2006,5.79652337561634,Emerging Markets,India
+Japan,JPN,2006,0.249355116079085,Special Cases,Japan
+Kenya,KEN,2006,14.4537342081708,Africa,Kenya
+"Korea, Rep.",KOR,2006,2.24234028518921,Emerging Markets,South Korea
+Nigeria,NGA,2006,8.22522152017047,Africa,Nigeria
+Pakistan,PAK,2006,7.92108440058789,Emerging Markets,Pakistan
+Turkiye,TUR,2006,9.59724212288446,Emerging Markets,Turkey
+United States,USA,2006,3.22594410070404,Developed,USA
+South Africa,ZAF,2006,3.2439076541923,Africa,South Africa
+Zimbabwe,ZWE,2006,,Special Cases,Zimbabwe
+Brazil,BRA,2007,3.64127299102652,Emerging Markets,Brazil
+Germany,DEU,2007,2.2983440070095,Developed,Germany
+"Egypt, Arab Rep.",EGY,2007,9.31896905799229,Africa,Egypt
+Ethiopia,ETH,2007,17.2404008340897,Special Cases,Ethiopia
+France,FRA,2007,1.48799805953859,Developed,France
+Ghana,GHA,2007,10.7342665456292,Africa,Ghana
+India,IND,2007,6.37288135593231,Emerging Markets,India
+Japan,JPN,2007,0.060039454498669,Special Cases,Japan
+Kenya,KEN,2007,9.75888023027529,Africa,Kenya
+"Korea, Rep.",KOR,2007,2.53457382137932,Emerging Markets,South Korea
+Nigeria,NGA,2007,5.38800796858626,Africa,Nigeria
+Pakistan,PAK,2007,7.59868441050774,Emerging Markets,Pakistan
+Turkiye,TUR,2007,8.75618090972632,Emerging Markets,Turkey
+United States,USA,2007,2.85267248150138,Developed,USA
+South Africa,ZAF,2007,6.17781214809388,Africa,South Africa
+Zimbabwe,ZWE,2007,,Special Cases,Zimbabwe
+Brazil,BRA,2008,5.67859390284168,Emerging Markets,Brazil
+Germany,DEU,2008,2.62837981637219,Developed,Germany
+"Egypt, Arab Rep.",EGY,2008,18.3168316831684,Africa,Egypt
+Ethiopia,ETH,2008,44.3566858766951,Special Cases,Ethiopia
+France,FRA,2008,2.81286194914785,Developed,France
+Ghana,GHA,2008,16.494639613412,Africa,Ghana
+India,IND,2008,8.34926704907581,Emerging Markets,India
+Japan,JPN,2008,1.3800788616492,Special Cases,Japan
+Kenya,KEN,2008,26.2398166445063,Africa,Kenya
+"Korea, Rep.",KOR,2008,4.67389655533408,Emerging Markets,South Korea
+Nigeria,NGA,2008,11.5810751748252,Africa,Nigeria
+Pakistan,PAK,2008,20.2861210929554,Emerging Markets,Pakistan
+Turkiye,TUR,2008,10.4441283764885,Emerging Markets,Turkey
+United States,USA,2008,3.839100296651,Developed,USA
+South Africa,ZAF,2008,9.90998456005467,Africa,South Africa
+Zimbabwe,ZWE,2008,,Special Cases,Zimbabwe
+Brazil,BRA,2009,4.88803479876798,Emerging Markets,Brazil
+Germany,DEU,2009,0.312739007368446,Developed,Germany
+"Egypt, Arab Rep.",EGY,2009,11.7634954386443,Africa,Egypt
+Ethiopia,ETH,2009,8.48364404530282,Special Cases,Ethiopia
+France,FRA,2009,0.0876204781574653,Developed,France
+Ghana,GHA,2009,19.2469482220857,Africa,Ghana
+India,IND,2009,10.8823529411764,Emerging Markets,India
+Japan,JPN,2009,-1.35283672951719,Special Cases,Japan
+Kenya,KEN,2009,9.23412592394652,Africa,Kenya
+"Korea, Rep.",KOR,2009,2.7564965449393,Emerging Markets,South Korea
+Nigeria,NGA,2009,12.5378277304689,Africa,Nigeria
+Pakistan,PAK,2009,13.6477650639761,Emerging Markets,Pakistan
+Turkiye,TUR,2009,6.25097663090626,Emerging Markets,Turkey
+United States,USA,2009,-0.355546266299747,Developed,USA
+South Africa,ZAF,2009,7.23809523809527,Africa,South Africa
+Zimbabwe,ZWE,2009,,Special Cases,Zimbabwe
+Brazil,BRA,2010,5.03872690108074,Emerging Markets,Brazil
+Germany,DEU,2010,1.1038103778926,Developed,Germany
+"Egypt, Arab Rep.",EGY,2010,11.2651882653185,Africa,Egypt
+Ethiopia,ETH,2010,8.14926402965082,Special Cases,Ethiopia
+France,FRA,2010,1.53112270420918,Developed,France
+Ghana,GHA,2010,10.7333898354915,Africa,Ghana
+India,IND,2010,11.9893899204244,Emerging Markets,India
+Japan,JPN,2010,-0.728243207517779,Special Cases,Japan
+Kenya,KEN,2010,3.96138889115385,Africa,Kenya
+"Korea, Rep.",KOR,2010,2.93928652655686,Emerging Markets,South Korea
+Nigeria,NGA,2010,13.7400521363694,Africa,Nigeria
+Pakistan,PAK,2010,12.9388705634889,Emerging Markets,Pakistan
+Turkiye,TUR,2010,8.56644420552976,Emerging Markets,Turkey
+United States,USA,2010,1.6400434423899,Developed,USA
+South Africa,ZAF,2010,4.06749555950263,Africa,South Africa
+Zimbabwe,ZWE,2010,3.02267002518892,Special Cases,Zimbabwe
+Brazil,BRA,2011,6.6364496221309,Emerging Markets,Brazil
+Germany,DEU,2011,2.07517283735874,Developed,Germany
+"Egypt, Arab Rep.",EGY,2011,10.0649259874818,Africa,Egypt
+Ethiopia,ETH,2011,33.2499598823344,Special Cases,Ethiopia
+France,FRA,2011,2.11159795175,Developed,France
+Ghana,GHA,2011,8.7284593709302,Africa,Ghana
+India,IND,2011,8.91179336483371,Emerging Markets,India
+Japan,JPN,2011,-0.27245561610124,Special Cases,Japan
+Kenya,KEN,2011,14.0224913014704,Africa,Kenya
+"Korea, Rep.",KOR,2011,4.0259650043609,Emerging Markets,South Korea
+Nigeria,NGA,2011,10.8261371880017,Africa,Nigeria
+Pakistan,PAK,2011,11.9160927116277,Emerging Markets,Pakistan
+Turkiye,TUR,2011,6.471879671151,Emerging Markets,Turkey
+United States,USA,2011,3.156841568622,Developed,USA
+South Africa,ZAF,2011,5.0008533879502,Africa,South Africa
+Zimbabwe,ZWE,2011,3.4661297281749,Special Cases,Zimbabwe
+Brazil,BRA,2012,5.40349914036997,Emerging Markets,Brazil
+Germany,DEU,2012,2.00848884782956,Developed,Germany
+"Egypt, Arab Rep.",EGY,2012,7.11172943343082,Africa,Egypt
+Ethiopia,ETH,2012,23.600417677317,Special Cases,Ethiopia
+France,FRA,2012,1.95419531613509,Developed,France
+Ghana,GHA,2012,11.1863409441067,Africa,Ghana
+India,IND,2012,9.47899691419801,Emerging Markets,India
+Japan,JPN,2012,-0.0440645104432602,Special Cases,Japan
+Kenya,KEN,2012,9.37777003547598,Africa,Kenya
+"Korea, Rep.",KOR,2012,2.18707104433314,Emerging Markets,South Korea
+Nigeria,NGA,2012,12.2242413020584,Africa,Nigeria
+Pakistan,PAK,2012,9.68235186055684,Emerging Markets,Pakistan
+Turkiye,TUR,2012,8.89156996512163,Emerging Markets,Turkey
+United States,USA,2012,2.06933726526067,Developed,USA
+South Africa,ZAF,2012,5.73797139141739,Africa,South Africa
+Zimbabwe,ZWE,2012,3.72532666110646,Special Cases,Zimbabwe
+Brazil,BRA,2013,6.204310666401,Emerging Markets,Brazil
+Germany,DEU,2013,1.50472330251876,Developed,Germany
+"Egypt, Arab Rep.",EGY,2013,9.4697198106492,Africa,Egypt
+Ethiopia,ETH,2013,7.46402192944517,Special Cases,Ethiopia
+France,FRA,2013,0.863715497861804,Developed,France
+Ghana,GHA,2013,11.6661923071729,Africa,Ghana
+India,IND,2013,10.0178784746102,Emerging Markets,India
+Japan,JPN,2013,0.335037912184741,Special Cases,Japan
+Kenya,KEN,2013,5.71749357037733,Africa,Kenya
+"Korea, Rep.",KOR,2013,1.30134754547413,Emerging Markets,South Korea
+Nigeria,NGA,2013,8.49551838265669,Africa,Nigeria
+Pakistan,PAK,2013,7.69215611899565,Emerging Markets,Pakistan
+Turkiye,TUR,2013,7.49309030547693,Emerging Markets,Turkey
+United States,USA,2013,1.46483265562717,Developed,USA
+South Africa,ZAF,2013,5.78016910069176,Africa,South Africa
+Zimbabwe,ZWE,2013,1.63495041543822,Special Cases,Zimbabwe
+Brazil,BRA,2014,6.32904015516138,Emerging Markets,Brazil
+Germany,DEU,2014,0.906794000434245,Developed,Germany
+"Egypt, Arab Rep.",EGY,2014,10.0702154687481,Africa,Egypt
+Ethiopia,ETH,2014,6.89001951597191,Special Cases,Ethiopia
+France,FRA,2014,0.507758822937989,Developed,France
+Ghana,GHA,2014,15.4896160333318,Africa,Ghana
+India,IND,2014,6.66565671867899,Emerging Markets,India
+Japan,JPN,2014,2.75922671353253,Special Cases,Japan
+Kenya,KEN,2014,6.87815499275949,Africa,Kenya
+"Korea, Rep.",KOR,2014,1.27477446401322,Emerging Markets,South Korea
+Nigeria,NGA,2014,8.04741087967907,Africa,Nigeria
+Pakistan,PAK,2014,7.18938402847028,Emerging Markets,Pakistan
+Turkiye,TUR,2014,8.85457271364316,Emerging Markets,Turkey
+United States,USA,2014,1.62222297740817,Developed,USA
+South Africa,ZAF,2014,6.13282953059149,Africa,South Africa
+Zimbabwe,ZWE,2014,-0.19778481012661,Special Cases,Zimbabwe
+Brazil,BRA,2015,9.02990102416136,Emerging Markets,Brazil
+Germany,DEU,2015,0.514426137125456,Developed,Germany
+"Egypt, Arab Rep.",EGY,2015,10.370490343517,Africa,Egypt
+Ethiopia,ETH,2015,9.56889955968623,Special Cases,Ethiopia
+France,FRA,2015,0.0375143805125181,Developed,France
+Ghana,GHA,2015,17.1499695007878,Africa,Ghana
+India,IND,2015,4.90697344127256,Emerging Markets,India
+Japan,JPN,2015,0.795279630579839,Special Cases,Japan
+Kenya,KEN,2015,6.58215429284779,Africa,Kenya
+"Korea, Rep.",KOR,2015,0.70633177245575,Emerging Markets,South Korea
+Nigeria,NGA,2015,9.00943498007706,Africa,Nigeria
+Pakistan,PAK,2015,2.52932817254229,Emerging Markets,Pakistan
+Turkiye,TUR,2015,7.67085364845885,Emerging Markets,Turkey
+United States,USA,2015,0.118627135552451,Developed,USA
+South Africa,ZAF,2015,4.51869094892506,Africa,South Africa
+Zimbabwe,ZWE,2015,-2.43096842383404,Special Cases,Zimbabwe
+Brazil,BRA,2016,8.73914352329393,Emerging Markets,Brazil
+Germany,DEU,2016,0.491747008445174,Developed,Germany
+"Egypt, Arab Rep.",EGY,2016,13.8136062148289,Africa,Egypt
+Ethiopia,ETH,2016,6.62813337230924,Special Cases,Ethiopia
+France,FRA,2016,0.183334861123764,Developed,France
+Ghana,GHA,2016,17.4546347070868,Africa,Ghana
+India,IND,2016,4.94821634062141,Emerging Markets,India
+Japan,JPN,2016,-0.127258844489754,Special Cases,Japan
+Kenya,KEN,2016,6.29724953814625,Africa,Kenya
+"Korea, Rep.",KOR,2016,0.971685739912168,Emerging Markets,South Korea
+Nigeria,NGA,2016,15.6968126387972,Africa,Nigeria
+Pakistan,PAK,2016,3.7651191635658,Emerging Markets,Pakistan
+Turkiye,TUR,2016,7.7751341532833,Emerging Markets,Turkey
+United States,USA,2016,1.26158320570536,Developed,USA
+South Africa,ZAF,2016,6.60290842394872,Africa,South Africa
+Zimbabwe,ZWE,2016,-1.54366960054161,Special Cases,Zimbabwe
+Brazil,BRA,2017,3.44637335032669,Emerging Markets,Brazil
+Germany,DEU,2017,1.50949485109628,Developed,Germany
+"Egypt, Arab Rep.",EGY,2017,29.5066083940038,Africa,Egypt
+Ethiopia,ETH,2017,10.6871150284238,Special Cases,Ethiopia
+France,FRA,2017,1.03228275064681,Developed,France
+Ghana,GHA,2017,12.3719215507048,Africa,Ghana
+India,IND,2017,3.32817337461298,Emerging Markets,India
+Japan,JPN,2017,0.484199796126385,Special Cases,Japan
+Kenya,KEN,2017,8.00564967709945,Africa,Kenya
+"Korea, Rep.",KOR,2017,1.94433230786366,Emerging Markets,South Korea
+Nigeria,NGA,2017,16.5022662139641,Africa,Nigeria
+Pakistan,PAK,2017,4.08537368032608,Emerging Markets,Pakistan
+Turkiye,TUR,2017,11.1443110840764,Emerging Markets,Turkey
+United States,USA,2017,2.13011000365961,Developed,USA
+South Africa,ZAF,2017,5.18618655524149,Africa,South Africa
+Zimbabwe,ZWE,2017,0.893962316050027,Special Cases,Zimbabwe
+Brazil,BRA,2018,3.66485028376728,Emerging Markets,Brazil
+Germany,DEU,2018,1.73216879766941,Developed,Germany
+"Egypt, Arab Rep.",EGY,2018,14.4014657807421,Africa,Egypt
+Ethiopia,ETH,2018,13.8330356586661,Special Cases,Ethiopia
+France,FRA,2018,1.85081508315492,Developed,France
+Ghana,GHA,2018,7.80876516610703,Africa,Ghana
+India,IND,2018,3.9388264669163,Emerging Markets,India
+Japan,JPN,2018,0.989094598021848,Special Cases,Japan
+Kenya,KEN,2018,4.6898064677633,Africa,Kenya
+"Korea, Rep.",KOR,2018,1.47583935002645,Emerging Markets,South Korea
+Nigeria,NGA,2018,12.0951065173432,Africa,Nigeria
+Pakistan,PAK,2018,5.07805725868917,Emerging Markets,Pakistan
+Turkiye,TUR,2018,16.3324638988929,Emerging Markets,Turkey
+United States,USA,2018,2.44258329692817,Developed,USA
+South Africa,ZAF,2018,4.50987264867388,Africa,South Africa
+Zimbabwe,ZWE,2018,10.6188658669575,Special Cases,Zimbabwe
+Brazil,BRA,2019,3.73297621216893,Emerging Markets,Brazil
+Germany,DEU,2019,1.44565976888253,Developed,Germany
+"Egypt, Arab Rep.",EGY,2019,9.15279959324803,Africa,Egypt
+Ethiopia,ETH,2019,15.8096321719344,Special Cases,Ethiopia
+France,FRA,2019,1.10825492288293,Developed,France
+Ghana,GHA,2019,7.14364003330857,Africa,Ghana
+India,IND,2019,3.72950573539129,Emerging Markets,India
+Japan,JPN,2019,0.46877615938395,Special Cases,Japan
+Kenya,KEN,2019,5.23963795764792,Africa,Kenya
+"Korea, Rep.",KOR,2019,0.383000303608136,Emerging Markets,South Korea
+Nigeria,NGA,2019,11.3964223378116,Africa,Nigeria
+Pakistan,PAK,2019,10.5780305672025,Emerging Markets,Pakistan
+Turkiye,TUR,2019,15.1768215720022,Emerging Markets,Turkey
+United States,USA,2019,1.81221007526021,Developed,USA
+South Africa,ZAF,2019,4.10285075461156,Africa,South Africa
+Zimbabwe,ZWE,2019,255.304990757856,Special Cases,Zimbabwe
+Brazil,BRA,2020,3.21176803803376,Emerging Markets,Brazil
+Germany,DEU,2020,0.144877925813981,Developed,Germany
+"Egypt, Arab Rep.",EGY,2020,5.04493288977538,Africa,Egypt
+Ethiopia,ETH,2020,20.3563468559061,Special Cases,Ethiopia
+France,FRA,2020,0.476498852725065,Developed,France
+Ghana,GHA,2020,9.88728956269944,Africa,Ghana
+India,IND,2020,6.62343677628535,Emerging Markets,India
+Japan,JPN,2020,-0.024995834027731,Special Cases,Japan
+Kenya,KEN,2020,5.40516207933392,Africa,Kenya
+"Korea, Rep.",KOR,2020,0.537288023411737,Emerging Markets,South Korea
+Nigeria,NGA,2020,13.2460234276597,Africa,Nigeria
+Pakistan,PAK,2020,9.74011619320125,Emerging Markets,Pakistan
+Turkiye,TUR,2020,12.2789574462574,Emerging Markets,Turkey
+United States,USA,2020,1.23358439630629,Developed,USA
+South Africa,ZAF,2020,3.23238831615113,Africa,South Africa
+Zimbabwe,ZWE,2020,557.201817362051,Special Cases,Zimbabwe
+Brazil,BRA,2021,8.30165975585673,Emerging Markets,Brazil
+Germany,DEU,2021,3.06666666666673,Developed,Germany
+"Egypt, Arab Rep.",EGY,2021,5.21404940513042,Africa,Egypt
+Ethiopia,ETH,2021,26.8395221557722,Special Cases,Ethiopia
+France,FRA,2021,1.64233141038393,Developed,France
+Ghana,GHA,2021,9.9710886750444,Africa,Ghana
+India,IND,2021,5.13140747176369,Emerging Markets,India
+Japan,JPN,2021,-0.233352779398264,Special Cases,Japan
+Kenya,KEN,2021,6.10793603659176,Africa,Kenya
+"Korea, Rep.",KOR,2021,2.49833333333339,Emerging Markets,South Korea
+Nigeria,NGA,2021,16.9528457221608,Africa,Nigeria
+Pakistan,PAK,2021,9.49641577285205,Emerging Markets,Pakistan
+Turkiye,TUR,2021,19.5964926913324,Emerging Markets,Turkey
+United States,USA,2021,4.69785886363742,Developed,USA
+South Africa,ZAF,2021,4.61874544887136,Africa,South Africa
+Zimbabwe,ZWE,2021,98.5461050920624,Special Cases,Zimbabwe
+Brazil,BRA,2022,9.28010608956872,Emerging Markets,Brazil
+Germany,DEU,2022,6.87257438551096,Developed,Germany
+"Egypt, Arab Rep.",EGY,2022,13.8956609775177,Africa,Egypt
+Ethiopia,ETH,2022,33.8898797100898,Special Cases,Ethiopia
+France,FRA,2022,5.22236748369725,Developed,France
+Ghana,GHA,2022,31.2558951049016,Africa,Ghana
+India,IND,2022,6.69903414079852,Emerging Markets,India
+Japan,JPN,2022,2.49770278172255,Special Cases,Japan
+Kenya,KEN,2022,7.65986268272224,Africa,Kenya
+"Korea, Rep.",KOR,2022,5.08951365062842,Emerging Markets,South Korea
+Nigeria,NGA,2022,18.8471877843274,Africa,Nigeria
+Pakistan,PAK,2022,19.8738599646655,Emerging Markets,Pakistan
+Turkiye,TUR,2022,72.3088359891207,Emerging Markets,Turkey
+United States,USA,2022,8.00279982052121,Developed,USA
+South Africa,ZAF,2022,7.03987272546482,Africa,South Africa
+Zimbabwe,ZWE,2022,104.705170628667,Special Cases,Zimbabwe
+Brazil,BRA,2023,4.59356282283203,Emerging Markets,Brazil
+Germany,DEU,2023,5.94643667725823,Developed,Germany
+"Egypt, Arab Rep.",EGY,2023,33.8847763115546,Africa,Egypt
+Ethiopia,ETH,2023,30.2188278135278,Special Cases,Ethiopia
+France,FRA,2023,4.8783572650844,Developed,France
+Ghana,GHA,2023,38.1069656296501,Africa,Ghana
+India,IND,2023,5.64914318907925,Emerging Markets,India
+Japan,JPN,2023,3.26813365933163,Special Cases,Japan
+Kenya,KEN,2023,7.67139634029402,Africa,Kenya
+"Korea, Rep.",KOR,2023,3.5974562502901,Emerging Markets,South Korea
+Nigeria,NGA,2023,24.659550203114,Africa,Nigeria
+Pakistan,PAK,2023,30.7681280657005,Emerging Markets,Pakistan
+Turkiye,TUR,2023,53.8594087593315,Emerging Markets,Turkey
+United States,USA,2023,4.11633838374488,Developed,USA
+South Africa,ZAF,2023,6.0752438457966,Africa,South Africa
+Zimbabwe,ZWE,2023,,Special Cases,Zimbabwe
+Brazil,BRA,2024,4.36746407652336,Emerging Markets,Brazil
+Germany,DEU,2024,2.2564981433876,Developed,Germany
+"Egypt, Arab Rep.",EGY,2024,28.2705899322082,Africa,Egypt
+Ethiopia,ETH,2024,21.037746057771,Special Cases,Ethiopia
+France,FRA,2024,1.99904942291462,Developed,France
+Ghana,GHA,2024,22.8483281157842,Africa,Ghana
+India,IND,2024,4.95303550973656,Emerging Markets,India
+Japan,JPN,2024,2.73853681635241,Special Cases,Japan
+Kenya,KEN,2024,4.48978854243448,Africa,Kenya
+"Korea, Rep.",KOR,2024,2.32174328643542,Emerging Markets,South Korea
+Nigeria,NGA,2024,33.2420966545406,Africa,Nigeria
+Pakistan,PAK,2024,12.6325318530452,Emerging Markets,Pakistan
+Turkiye,TUR,2024,58.5064507300342,Emerging Markets,Turkey
+United States,USA,2024,2.94952520485207,Developed,USA
+South Africa,ZAF,2024,4.36115246518962,Africa,South Africa
+Zimbabwe,ZWE,2024,,Special Cases,Zimbabwe
